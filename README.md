@@ -9,3 +9,6 @@ This project provides a MySQL-based e-commerce database schema with sample data 
  Indexing for performance optimization
 
 Use it to learn SQL, analyze e-commerce data, or test database performance.
+
+![image](https://github.com/user-attachments/assets/ccf2e5ce-4289-4960-863f-bf6cd49ba3a4)
+
